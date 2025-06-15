@@ -24,12 +24,9 @@ This Flutter package provides an easy-to-use API client for the OverKiz platform
 
 ## Installation
 
-Add this to your package's `pubspec.yaml` file:
+For now this package is in development, and isn't available in the official Flutter module database yet.
 
-```yaml
-dependencies:
-  flutter_overkiz: ^0.0.0
-```
+Installation is not documented yet.
 
 ## Getting started
 
