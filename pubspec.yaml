@@ -1,0 +1,15 @@
+name: flutter_overkiz
+description: A fully async and easy to use API client for the OverKiz API. You can use this client to interact with smart devices connected to the OverKiz platform.
+version: 0.0.0
+homepage: https://github.com/jbilcke-hf/flutter_overkiz
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  http: ^1.1.0
+  meta: ^1.9.1
+
+dev_dependencies:
+  test: ^1.24.0
+  lints: ^3.0.0
